@@ -1,0 +1,11 @@
+C:\Users\silva\Documents\Course\Exercicio118\Exercicio118\bin\Debug\netcoreapp3.0\Exercicio118.exe
+C:\Users\silva\Documents\Course\Exercicio118\Exercicio118\bin\Debug\netcoreapp3.0\Exercicio118.deps.json
+C:\Users\silva\Documents\Course\Exercicio118\Exercicio118\bin\Debug\netcoreapp3.0\Exercicio118.runtimeconfig.json
+C:\Users\silva\Documents\Course\Exercicio118\Exercicio118\bin\Debug\netcoreapp3.0\Exercicio118.runtimeconfig.dev.json
+C:\Users\silva\Documents\Course\Exercicio118\Exercicio118\bin\Debug\netcoreapp3.0\Exercicio118.dll
+C:\Users\silva\Documents\Course\Exercicio118\Exercicio118\bin\Debug\netcoreapp3.0\Exercicio118.pdb
+C:\Users\silva\Documents\Course\Exercicio118\Exercicio118\obj\Debug\netcoreapp3.0\Exercicio118.csprojAssemblyReference.cache
+C:\Users\silva\Documents\Course\Exercicio118\Exercicio118\obj\Debug\netcoreapp3.0\Exercicio118.AssemblyInfoInputs.cache
+C:\Users\silva\Documents\Course\Exercicio118\Exercicio118\obj\Debug\netcoreapp3.0\Exercicio118.AssemblyInfo.cs
+C:\Users\silva\Documents\Course\Exercicio118\Exercicio118\obj\Debug\netcoreapp3.0\Exercicio118.dll
+C:\Users\silva\Documents\Course\Exercicio118\Exercicio118\obj\Debug\netcoreapp3.0\Exercicio118.pdb
